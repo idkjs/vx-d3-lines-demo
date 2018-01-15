@@ -3,6 +3,9 @@
 ## Source
 - single line source is this Medium article: https://medium.com/vx-code/getting-started-with-vx-1756bb661410
 
+## Live Demo
+
+- [Live Demo](vx-d3-lines-demo.now.sh)
 
 ## Dependencies
 

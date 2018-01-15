@@ -5,7 +5,9 @@ export default ({ pathname }) => (
         <Link prefetch href='/'>
             <a className={pathname === '/' && 'is-active'}>SingleLine</a>
         </Link>
-
+        {/* <Link prefetch href='/singleline'>
+            <a className={pathname === '/singleline' && 'is-active'}>SingleLine</a>
+        </Link> */}
         <Link prefetch href='/multiline'>
             <a className={pathname === '/multiline' && 'is-active'}>MultiLine</a>
         </Link>

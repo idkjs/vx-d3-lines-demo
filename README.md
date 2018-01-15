@@ -23,3 +23,9 @@
     "react-dom": "^15.5.4"
 }
 ```
+
+## Libraries
+
+- [D3.js](https://d3js.org/)
+- [VX](https://github.com/hshoff/vx/)
+- [Next.js](https://github.com/zeit/next.js/tree/master)

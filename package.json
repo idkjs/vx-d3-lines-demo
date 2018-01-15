@@ -1,0 +1,24 @@
+{
+  "name": "vx-d3-lines-demo",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "license": "MIT",
+  "author": "Alain Armand, https://github.com/idkjs",
+  "dependencies": {
+    "@vx/axis": "0.0.153",
+    "@vx/gradient": "0.0.153",
+    "@vx/grid": "0.0.153",
+    "@vx/group": "0.0.153",
+    "@vx/mock-data": "0.0.153",
+    "@vx/responsive": "0.0.153",
+    "@vx/scale": "0.0.153",
+    "@vx/shape": "0.0.153",
+    "d3-array": "^1.2.1",
+    "next": "^4.2.3",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  }
+}

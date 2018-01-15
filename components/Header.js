@@ -3,17 +3,14 @@ import Link from 'next/link'
 export default ({ pathname }) => (
     <header>
         <Link prefetch href='/'>
-            <a className={pathname === '/' && 'is-active'}>Medium</a>
+            <a className={pathname === '/' && 'is-active'}>SingleLine</a>
         </Link>
 
         <Link prefetch href='/multiline'>
-            <a className={pathname === '/multiline' && 'is-active'}>Multiline</a>
+            <a className={pathname === '/multiline' && 'is-active'}>MultiLine</a>
         </Link>
         <Link prefetch href='/grid'>
-            <a className={pathname === '/grid' && 'is-active'}>MultiGrid</a>
-        </Link>
-        <Link prefetch href='/apple'>
-            <a className={pathname === '/apple' && 'is-active'}>AppleChart</a>
+            <a className={pathname === '/grid' && 'is-active'}>MultiLineGrid</a>
         </Link>
 
         <style jsx>{`

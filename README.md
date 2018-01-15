@@ -5,7 +5,7 @@
 
 ## Live Demo
 
-- [Live Demo](vx-d3-lines-demo.now.sh)
+- [Live Demo](https://vx-d3-lines-demo.now.sh)
 
 ## Dependencies
 
